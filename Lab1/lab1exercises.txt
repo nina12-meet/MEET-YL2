@@ -1,0 +1,5 @@
+a) python manage.py runserver
+b)http://127.0.0.1:8000/movies
+the URL is the same
+
+
